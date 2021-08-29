@@ -79,7 +79,7 @@ public class Test {
         {
             list.add(new ThreadPoolDemo());
         }
-
+//ok
     }
 
 }
